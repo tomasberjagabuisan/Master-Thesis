@@ -4,7 +4,7 @@
 
 **Author**: Tomas Berjaga Buisan
 
-**Supervisors**: Dr. Yonatan Sanz Pearl and Prof. Dr. Gustavo Deco
+**Supervisors**: Dr. Yonatan Sanz Perl and Prof. Dr. Gustavo Deco
 
 **Affiliation**: Computational Neuroscience Research Group, Center for Brain and Cognition, Universitat Pompeu Fabra.
 
